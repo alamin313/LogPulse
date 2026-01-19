@@ -1,6 +1,6 @@
 # LogPulse
 LogPulse — Distributed Log Analytics &amp; Anomaly Detection Platform
-What LogPulse Does (Plain English)
+What LogPulse Does 
 
 Multiple applications send logs and metrics to LogPulse.
 LogPulse:
